@@ -1,14 +1,4 @@
-html, body {
+body {
     background-color: black !important;
     color: white !important;
 }
-
-.markdown-body {
-    background-color: black !important;
-    color: white !important;
-}
-
-.markdown-body a {
-    color: lightblue !important;
-}
-
