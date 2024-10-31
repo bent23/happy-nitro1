@@ -1,4 +1,4 @@
-body {
+html, body {
     background-color: black !important;
     color: white !important;
 }
@@ -8,6 +8,7 @@ body {
     color: white !important;
 }
 
-a {
+.markdown-body a {
     color: lightblue !important;
 }
+
